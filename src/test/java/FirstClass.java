@@ -4,6 +4,6 @@ public class FirstClass {
 
         System.out.println("Brave new world");
 
-        System.out.println("Someone");
+        System.out.println("Someone mae a change");
     }
 }
