@@ -5,12 +5,8 @@ public class FirstClass {
         System.out.println("Brave new world");
 
         System.out.println("change onw");
-        
-        
+
         //  first change
-        
-       
-        
-        
+
     }
 }
